@@ -4,32 +4,15 @@
 
 ## Tech Stack
 
-**Backend**
-- C# / .NET
-- ASP.NET Web Forms / Web API
-- Entity Framework 6
-- SQL Server
-- Node.js
+**Backend:** C# • .NET • ASP.NET • Entity Framework 6 • SQL Server • Node.js
 
-**Frontend**
-- React / React Native
-- TypeScript / JavaScript
-- HTML5 / CSS3
-- jQuery / Bootstrap
+**Frontend:** React • React Native • TypeScript • JavaScript • HTML5 • CSS3 • jQuery • Bootstrap
 
-**Database**
-- SQL Server
-- MySQL
-
-**Tools**
-- Git
-- Postman
-- Azure
-- Visual Studio
+**Tools:** Git • Postman • Azure • Visual Studio
 
 ## Contact
-**Email:** devrodrigobnu@gmail.com  
-**LinkedIn:** [rodrigo-luchtenberg](https://linkedin.com/in/rodrigo-luchtenberg)
+- **Email:** devrodrigobnu@gmail.com
+- **LinkedIn:** [rodrigo-luchtenberg](https://linkedin.com/in/rodrigo-luchtenberg)
 
 ---
 
